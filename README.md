@@ -15,7 +15,7 @@ List All Contacts: Provides an overview of all stored contacts in a user-friendl
 Data Structures: Utilized Lists and ArrayLists to store and manage contact information efficiently.
 Design Principles: Implemented Object-Oriented Programming concepts including encapsulation, abstraction, and classes/objects to structure the application logically and intuitively.
 Problem-Solving: Focused on efficient data management and user-friendly interface design to enhance the overall functionality of the application.
-Debugging and Testing: Rigorously tested and debugged the application to ensure reliability and usability.
+Debugging and Testing: Tested and debugged the application to ensure reliability and usability.
 
 Outcomes
 Successfully developed a fully functional contact book application with a focus on user experience and efficient data handling.
