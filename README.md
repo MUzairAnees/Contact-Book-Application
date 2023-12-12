@@ -8,11 +8,14 @@ Objective: Designed and developed a contact book application to manage contact i
 Technologies Used: Java, IntelliJ IDEA.
 
 Key Features
+
 Add Contact: Allows users to add new contacts with details such as name, phone number, and email.
 
 Delete Contact: Facilitates removal of existing contacts from the contact book.
 
-Search Contact: Implements a search functionality to find contacts by name or other attributes.
+Search Contact: Implements a search functionality to find contacts by name (or other attributes(to be added)).
+
+Update Contact(To be added): Implements a update functionality that would allow you to update any attributes of the contact.
 
 List All Contacts: Provides an overview of all stored contacts in a user-friendly format.
 
